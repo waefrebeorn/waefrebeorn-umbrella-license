@@ -1,0 +1,57 @@
+WaefreBeorn Umbrella License v3.0
+
+Copyright (c) WaefreBeorn and contributors.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+
+2. Redistributions of binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. All copies of this license and of the copyright and patent grant
+   declarations must be included in full within every copy of the software,
+   in the original or any modified form, as well as in every other file
+   that contains a part of the software.
+
+4. Any commercial use of this software requires explicit prior written
+   permission from WaefreBeorn.  Non-commercial use is hereby granted
+   for personal, research, and educational purposes.
+
+5. The name "WaefreBeorn" and the umbrella-logo may not be used to endorse
+   or promote products derived from this software without specific prior
+   written permission.
+
+6. Modifications to this software MUST be measured into a firmware-resident
+   attestation register (PCR) when running under WuBuFW, OR, where no
+   firmware attestation is available, committed to the canonical audit log
+   of the WuBuOS recursive-optimizer state.  This is the "attested-mutation"
+   clause: every self-modification is reproducible, verifiable, and bound
+   to a measurement.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+This license is NOT OSI-approved and NOT FSF-approved.  It is a custom
+source-available license designed to protect the creator and the community.
+
+For the FAQ and the latest version of this license, see:
+https://github.com/waefrebeorn/waefrebeorn-umbrella-license
+
+For questions about licensing, commercial use, or compliance:
+Contact: waefrebeorn@waefrebeorn.org
