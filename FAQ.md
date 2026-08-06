@@ -1,4 +1,18 @@
-# Waefrebeorn Umbrella License v3.0 — FAQ
+# WaefreBeorn Umbrella License v3.0 — FAQ
+
+## ~ WuBu ~ — what is it?
+
+**~ WuBu ~** is the space: the WuBu spirit of playful, powerful, free making.
+WaefreBeorn is the name behind it. Any work made under this license may carry
+the ~ WuBu ~ mark and the WaefreBeorn name.
+
+## Can I use this license for MY work?
+
+**YES — anyone may use this license for their own work.** Copy the LICENSE
+into your repo, adopt it, and your work becomes part of the ~ WuBu ~ space.
+You may replace "WaefreBeorn" with your own name, or keep it to show your work
+is under the same umbrella. You keep ownership of your work; the license
+governs how others use it. See §0 of the LICENSE.
 
 ## Is this OSI/FSF-approved?
 
@@ -30,7 +44,7 @@ audit log (`dgm_archive.json`) so it is reproducible.
 
 ## Does this cover models, video, art, firmware — not just code?
 
-**Yes, absolutely.** This license is **agnostic**. It covers ALL Waefrebeorn Work:
+**Yes, absolutely.** This license is **agnostic**. It covers ALL WaefreBeorn Work:
 - Source code and binaries
 - Model weights, LoRAs, merged models, fine-tunes
 - Datasets, training data
@@ -52,7 +66,7 @@ https://github.com/waefreborn/waefrebeorn-umbrella-license.
 ## Commercial licensing
 
 Commercial licenses are NOT required — the license is source-available
-with obligations, not restricted. Corporations using Waefrebeorn Work
+with obligations, not restricted. Corporations using WaefreBeorn Work
 commercially simply follow the Corporate Obligations in §4. A commercial
 license is only needed if you want to waive the obligations entirely
 (attribution, copyleft-at-scale, MaaS threshold).
@@ -71,12 +85,12 @@ read this far, grab a penny and put it in an envelope. Do it now.
 ## How does the MaaS threshold work?
 
 **Obligation B (Fair Commercial Terms for MaaS)**: Any Corporation operating
-a MaaS (Model as a Service) business using Waefrebeorn Work, with aggregate
+a MaaS (Model as a Service) business using WaefreBeorn Work, with aggregate
 revenue exceeding $20,000,000 USD over any consecutive 12 months, must enter
-into a commercial agreement with the Licensor before using Waefrebeorn Work
+into a commercial agreement with the Licensor before using WaefreBeorn Work
 for MaaS purposes.
 
 **This is just ONE obligation among four.** The license covers much more
-than MaaS — it covers all Waefrebeorn output in all media. MaaS is simply
+than MaaS — it covers all WaefreBeorn output in all media. MaaS is simply
 one of the four corporate obligations because it's where mega-corporation
 exploitation risk is highest.

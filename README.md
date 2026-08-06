@@ -1,9 +1,14 @@
-# Waefrebeorn Umbrella License v3.0
+# WaefreBeorn Umbrella License v3.0
 
-Canonical home of the **Waefrebeorn Umbrella License v3.0**, the source-available
-license governing all Waefrebeorn projects — AGI operating systems, native C11
+Canonical home of the **WaefreBeorn Umbrella License v3.0**, the source-available
+license governing all WaefreBeorn projects — AGI operating systems, native C11
 inference engines, video editors, office suites, AI agents, creative works,
 firmware, and all associated tool repos.
+
+**~ WuBu ~ is the space. This is WaefreBeorn.**
+
+**Anyone may use this license for THEIR work.** Copy it into your repo,
+adopt it, and your work joins the ~ WuBu ~ space. See §0 of the LICENSE.
 
 ## Why this exists
 
@@ -13,7 +18,7 @@ The umbrella license lets every downstream repo pin a stable, hash-verifiable co
 rather than copy-pasting license text into each one. A repo may carry either the
 full text or a pointer — the pointer points to this repository.
 
-The license is **agnostic** — it applies to all Waefrebeorn work regardless of medium:
+The license is **agnostic** — it applies to all WaefreBeorn work regardless of medium:
 source code, binary blobs, model weights, datasets, documentation, videos, music,
 art, comics, hardware designs, and any future medium we invent.
 
@@ -21,7 +26,7 @@ art, comics, hardware designs, and any future medium we invent.
 
 | File                 | Description                                                        |
 |----------------------|-------------------------------------------------------------------|
-| `LICENSE`            | Canonical Waefrebeorn Umbrella License v3.0 full text              |
+| `LICENSE`            | Canonical WaefreBeorn Umbrella License v3.0 full text              |
 | `LICENSE_POINTER`    | The one-paragraph pointer other repos may use instead of the full text |
 | `FAQ.md`             | Frequently-asked questions (commercial use, compliance, …)       |
 
@@ -30,7 +35,7 @@ art, comics, hardware designs, and any future medium we invent.
 - **Type:** custom source-available (NOT OSI / NOT FSF approved)
 - **Commercial use:** The Populace (individuals, non-profits, governments, <100 FTE / <$1M revenue) are free. Mega-corporations ($100M+ revenue) must follow Corporate Obligations.
 - **Attested-mutation clause:** every self-modification is measured into a firmware PCR (or equivalent audit log) — never silently applied
-- **SPDX-Identifier:** `Waefrebeorn-Umbrella-3.0`
+- **SPDX-Identifier:** `WaefreBeorn-Umbrella-3.0`
 - **Contact:** waefrebeorn@waefrebeorn.org
 
 ## Using the license
@@ -46,7 +51,7 @@ FetchContent_Declare(
 
 or in a repo, `LICENSE`:
 ```
-SPDX-License-Identifier: Waefrebeorn-Umbrella-3.0
+SPDX-License-Identifier: WaefreBeorn-Umbrella-3.0
 ```
 
 ## The Five Freedoms (Populace)
@@ -106,7 +111,7 @@ fraud/identity theft · illegal activity · shell-entity evasion · malicious co
 ### Special Cases
 - `waefrebeorn/WuBu-DefCon` — Autonomous red teaming (AGPL-3.0)
 
-> Any work published under the Waefrebeorn name that is not listed here is still
+> Any work published under the WaefreBeorn name that is not listed here is still
 > covered by this license. The list is illustrative, not exhaustive.
 
 ## Design Research Corpus
@@ -122,7 +127,7 @@ See §11 (Modifiable License Reserve) for the research-backed modification frame
 
 ## The Penny Clause (§14)
 
-Every user of Waefrebeorn Work owes the Licensor one **physical** penny sent by
+Every user of WaefreBeorn Work owes the Licensor one **physical** penny sent by
 **physical mail**. Not digital, not crypto, not QR codes — real metal. The only
 exception: if total pennies owed exceed shipping weight limits, excess may be
 digital. But you always start with one real penny. This is a whimsical
