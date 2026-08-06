@@ -59,10 +59,14 @@ license is only needed if you want to waive the obligations entirely
 
 ## Do I have to send a penny?
 
-Yes. Section 14 of the license requires a physical penny sent by mail for
-every use, derivative, or redistribution. This is the Penny Clause — a
-whimsical proof-of-read mechanism. If you haven't read the license all the
-way to §14, you owe a penny. The address is in §14.
+YES — a **physical** penny sent by **physical mail**. Not digital pennies,
+not cryptocurrency, not QR codes, not NFTs, not virtual points. Only real
+metal. Section 14 of the license requires one physical penny per use,
+derivative, or redistribution. The only exception: if the total pennies
+owed exceeds what can be physically shipped in one package (weight
+restrictions), the excess may be sent as a digital payment — but you
+must always start with at least one real physical penny first. If you've
+read this far, grab a penny and put it in an envelope. Do it now.
 
 ## How does the MaaS threshold work?
 

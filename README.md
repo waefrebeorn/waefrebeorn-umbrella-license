@@ -122,7 +122,10 @@ See §11 (Modifiable License Reserve) for the research-backed modification frame
 
 ## The Penny Clause (§14)
 
-Every user of Waefrebeorn Work owes the Licensor one physical penny sent by mail.
-This is a whimsical proof-of-read mechanism (like the M&M's trick at concerts).
-If you've read this far, grab a penny and put it in an envelope. Do it now.
+Every user of Waefrebeorn Work owes the Licensor one **physical** penny sent by
+**physical mail**. Not digital, not crypto, not QR codes — real metal. The only
+exception: if total pennies owed exceed shipping weight limits, excess may be
+digital. But you always start with one real penny. This is a whimsical
+proof-of-read mechanism (like the M&M's trick at concerts). If you've read
+this far, grab a penny and put it in an envelope. Do it now.
 See §14 of the LICENSE for details.
