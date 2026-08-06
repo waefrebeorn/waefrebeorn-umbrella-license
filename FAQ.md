@@ -57,6 +57,13 @@ commercially simply follow the Corporate Obligations in §4. A commercial
 license is only needed if you want to waive the obligations entirely
 (attribution, copyleft-at-scale, MaaS threshold).
 
+## Do I have to send a penny?
+
+Yes. Section 14 of the license requires a physical penny sent by mail for
+every use, derivative, or redistribution. This is the Penny Clause — a
+whimsical proof-of-read mechanism. If you haven't read the license all the
+way to §14, you owe a penny. The address is in §14.
+
 ## How does the MaaS threshold work?
 
 **Obligation B (Fair Commercial Terms for MaaS)**: Any Corporation operating

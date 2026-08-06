@@ -119,3 +119,10 @@ fraud/identity theft · illegal activity · shell-entity evasion · malicious co
 Future versions (v3.1, v4.0, etc.) may be published through a publicly documented
 governance process. Users may continue under their original version or upgrade.
 See §11 (Modifiable License Reserve) for the research-backed modification framework.
+
+## The Penny Clause (§14)
+
+Every user of Waefrebeorn Work owes the Licensor one physical penny sent by mail.
+This is a whimsical proof-of-read mechanism (like the M&M's trick at concerts).
+If you've read this far, grab a penny and put it in an envelope. Do it now.
+See §14 of the LICENSE for details.
